@@ -1,0 +1,11 @@
+{
+  "name": "Basic Body No Sleeves",
+  "description": "This is a pattern for a basic body without sleeves. Sew with stretchy fabric.",
+  "ID": 0,
+  "lines": [
+    [[5.0, 6.0, 18.5], [0.0, 10.0, 22.0] ],
+    [[18.5, 16.0, 18.75], [22.0, 41.0, 57.0]],
+    [[18.75, 12, 12], [57.0, 60.0, 79.0]],
+    [[0, 9, 9], [60.0, 60.0, 79.0]]
+  ]
+}
